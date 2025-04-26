@@ -1,0 +1,5 @@
+Hello! Aquí Mario Reportándose con la Actividad de evaluación del parcial 2!!!1
+
+Para este parcial tardé 3 días en hacer todo el proyecto, pues estuve investigando mucho para el diseño (porque soy malísimo) y las funciones de JavaScript, algunas partes como el botón de inicio de sesión o la sección del audio fueron de proyectos anteriores que hice.
+
+Decidí tomarme la libertad de hacer el diseño a mi propia manera, pero adaptándolo a las funcionalidades del proyecto. Espero eso no sea un inconveniente ^^ se me hizo interesante y relajante esta actividad por no tener que lidiar con nada del backend jsjs
